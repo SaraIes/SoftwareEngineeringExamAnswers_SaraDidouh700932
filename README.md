@@ -64,4 +64,4 @@ First of all, the client has to validate that all the information in the require
 
 h)	Create a repository on GitHub and upload your answers to it. Please note that the answers on GitHub will not be considered for marking, so it is essential to submit all your answers to Moodle before the exam deadline.
 
-Link to GitHub repository: 
+Link to GitHub repository: https://github.com/SaraIes/SoftwareEngineeringExamAnswers_SaraDidouh700932.git
